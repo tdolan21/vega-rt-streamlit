@@ -2,7 +2,7 @@
 
 Realtime image generation using segmind vega RT latent consistency adapter and streamlit + streamlit-keyup
 
-![segmind_demo](assets/demo.mp4)
+[demo_video.webm](https://github.com/tdolan21/vega-rt-streamlit/assets/40906019/79994ceb-b859-4e8f-8dfc-26392466fcfe)
 
 This demo assumes you have torch and CUDA properly installed for your machine.
 
